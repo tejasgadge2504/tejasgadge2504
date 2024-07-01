@@ -24,6 +24,10 @@ Welcome to my GitHub profile! I am a passionate developer with expertise in vari
   ![Dart](https://img.shields.io/badge/Code-Dart-green?style=flat-square)  
   🩺 A management system for doctors to handle patient records efficiently.
 
+- **[Alertify](https://github.com/tejasgadge2504/Alertify)**  
+  ![Dart](https://img.shields.io/badge/Code-Dart-green?style=flat-square)  
+  An Application to handle time-to-time Allerts.
+
 - **[RAILEASE](https://github.com/tejasgadge2504/RAILEASE)**  
   ![Dart](https://img.shields.io/badge/Code-Dart-green?style=flat-square)  
   🚆 An app to ease the process of railway bookings and inquiries.
@@ -44,7 +48,7 @@ Welcome to my GitHub profile! I am a passionate developer with expertise in vari
 
 - **2024**  
   **Genius Academy**  
-  Web Developer (freelance) 💻
+  Web Developer (freelance)(1 Jan, 2024 - 1 May, 2024) 💻
 
 - **2023**  
   **CodeClause PVT. LTD.**  
@@ -64,6 +68,7 @@ Welcome to my GitHub profile! I am a passionate developer with expertise in vari
 - 🖥️ Participated in the "BID BY BIT" at KJSCE Devopia 2024.
 - 🏅 Completed INVICTUS 24hr HACKATHON by ISTE VESIT.
 - 🌍 Participated in EUREKA 24 National level IDEATHON under TECHOPEDIA LVL 12 by IEEE SIESGST.
+- 🖥️Completed PRASUNETHON 48hr Hackathon by Prasunet Company.
 - 🤖 Completed Hack-AI-Thon 2.0 24hr Hackathon by AI CoLegion VESIT.
 - 👨‍🏫 Mentored 700+ students at 'Aashayein' organized by VESLang Circle and ESEB-VESIT.
 
