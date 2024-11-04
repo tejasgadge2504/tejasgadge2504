@@ -62,6 +62,9 @@ Welcome to my GitHub profile! I am a passionate developer with expertise in vari
   **VESLang Circle**  
   Junior Member (2023-2024) 👥
 
+## Badges
+[![An image of @tejasgadge2504's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tejasgadge2504)](https://holopin.io/@tejasgadge2504)
+
 ## Co-curricular
 
 - 🏆 Best Presentation Team & Best Presenter award at BuzzPro'24.
